@@ -49,7 +49,7 @@ nav {
 }
 
 #sec-1 {
-    background-image: url("/images/hero-bg.jpg");
+    background-image: url("images/hero-bg.jpg");
     color: white;
     background-repeat: no-repeat;
     height: 100vh;
@@ -249,7 +249,7 @@ h1 {
     display: flex;
     flex-direction: row;
     justify-content: space-around;
-    background-image: url("/images/g.jpg");
+    background-image: url("images/g.jpg");
     background-position: 50% 50%;
     background-repeat: no-repeat;
     background-size: cover;
