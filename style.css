@@ -373,10 +373,10 @@ h1 {
 #sec-6 {
     background-color: #104e92;
     color: white;
-    height: 60%;
-    padding-top: 100px;
+    height: fit-content;
     padding-right: 100px;
-    padding-bottom: 60px;
+    padding-bottom: 290px;
+    padding-top: 100px;
 }
 
 .about {
